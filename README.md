@@ -1,0 +1,1 @@
+kaomoji-board-chromium-extention
